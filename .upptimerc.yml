@@ -16,12 +16,10 @@ sites:
     url: https://www.lexico.com/definition/bank
   - name: Lexico Spanish Definition
     url: https://www.lexico.com/es/definicion/agua
-#   - name: Secret Site
-#     url: $SECRET_SITE
-- name: Staging Lexico.com
-  url: https://staging.lexico.com
-  headers:
-    - "Authorization: Basic $STAGING_ACCESS"
+  - name: Staging Lexico.com
+    url: https://staging.lexico.com
+    headers:
+      - "Authorization: Basic $STAGING_ACCESS"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
