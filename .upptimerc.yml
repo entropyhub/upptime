@@ -20,7 +20,11 @@ sites:
     url: https://staging.lexico.com
     headers:
       - "Authorization: Basic $STAGING_ACCESS"
-
+  - name: Staging Lexico.com/es/definicion Broken Page
+    url: https://staging.lexico.com/es/definicion
+    headers:
+      - "Authorization: Basic $STAGING_ACCESS"
+      
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
