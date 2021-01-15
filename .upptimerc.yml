@@ -28,9 +28,155 @@ sites:
     url: https://staging.lexico.com/es/definicion
     headers:
       - "Authorization: Basic $STAGING_ACCESS"
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/word%
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/training <042D><0442><043E>
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/추락시키다
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/word%
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/post-truthhttps:/en.oxforddictionaries.com/definition/post-truth</a></p><p>[2]</a>
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/whirled
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/cowchip
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/millihertz
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/rubberneck wagon
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/바다가재
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/맞지 않는
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/dodad
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/face_airing
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/monochorionic
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/CIWS
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/긔틀
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/대아
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/송진
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/Ouachita_River
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/gerunds
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/구슬옥
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/固定作用
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/skewers
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/stay of execution
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/미자
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/존립
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/쉐도우
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/명명법
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/주담
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/pyridine_base
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/수시 납치
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/西风带
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/spoiliation
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/小事件
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/search?utf8
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/explore/us_sample_academic_CV.pdf
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/explore/us_sample_career_transition_resume.pdf
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonym/down_to_earth
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/explore/us_sample_entry-level_resume.pdf
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/prepuberally
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/phobia%
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/%s
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/narrow-heartedness
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/specific rotation
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/kennelly_layer?s=t
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/foot_valve?s=t
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/Ab integro
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/protestatory
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/mummy-like
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/microlight
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/aksumite
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/oarage
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/synonyms/ins
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/as+thick+as+two%2
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/caf%c
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/webtoonhttp:/gadgetplus.id/line-webtoon-x-popcon-asia/2016.http:/science.nas.nasa.gov/Pubs/TechReports/NASreports/NAS-98-014http:/www.antaranews.com/berita/495706/line-hadirkan-webtoon-platform-http:/www.antaranews.com/berita/495706/line-hadirkan-webtoon-platform-http:/www.antaranews.com/berita/495706/line-hadirkan-webtoon-platform-digital-bagi-pecinta-komikhttp:/www.kompasiana.com/rikkai/webtoon-dan-kualitaskomentar-remaja- 
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/art [06
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/city [06
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/public assistance
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/potential [accessed 17/10/2016
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/重庆yabo亚搏预测号码【┃总代2⒏7⒏01705[ｑ]】】
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/substitute [150328
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/curlicues
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/scanner driver
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/grigri
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/search?filter=en_dictionary&query=what_do_you_know_about_that
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/frame-driven
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/curity
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/pendentives
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/chopper spectrometer
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/definition/枹木履
+  - name: Lexico GSC Coverage
+    url: "https://www.lexico.com/definition/awar[broken reference: aware__2]"
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/peracarid_[adjective]
+  - name: Lexico GSC Coverage
+    url: https://www.lexico.com/en/definition/subsidiarity]
 
-      
-      
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
