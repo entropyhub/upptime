@@ -20,6 +20,10 @@ sites:
     url: https://staging.lexico.com
     headers:
       - "Authorization: Basic $STAGING_ACCESS"
+  - name: Staging Lexico.com Spanish Definition
+    url: https://staging.lexico.com/es/definicion/agua
+    headers:
+      - "Authorization: Basic $STAGING_ACCESS"
   - name: Staging Lexico.com/es/definicion Broken Page
     url: https://staging.lexico.com/es/definicion
     headers:
