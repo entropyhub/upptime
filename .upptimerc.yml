@@ -28,8 +28,7 @@ sites:
     url: https://staging.lexico.com/es/definicion
     headers:
       - "Authorization: Basic $STAGING_ACCESS"
-  - name: Lexico 500 Response Test
-    url: https://www.lexico.com/500
+
       
       
 status-website:
