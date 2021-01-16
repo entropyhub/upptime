@@ -1,7 +1,7 @@
 url: https://www.lexico.com/en/definition/peracarid_[adjective]
-status: up
-code: 200
-responseTime: 1507
-lastUpdated: 2021-01-16T07:05:21.904Z
+status: down
+code: 429
+responseTime: 413
+lastUpdated: 2021-01-16T08:02:10.083Z
 startTime: Fri Jan 15 2021 16:40:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
