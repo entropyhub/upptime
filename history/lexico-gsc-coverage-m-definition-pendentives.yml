@@ -1,7 +1,7 @@
 url: https://www.lexico.com/definition/pendentives
-status: up
-code: 200
-responseTime: 633
-lastUpdated: 2021-01-25T03:25:46.539Z
+status: down
+code: 429
+responseTime: 91
+lastUpdated: 2021-01-25T04:17:31.063Z
 startTime: Fri Jan 15 2021 16:40:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
