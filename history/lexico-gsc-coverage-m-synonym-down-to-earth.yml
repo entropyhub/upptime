@@ -1,7 +1,7 @@
 url: https://www.lexico.com/synonym/down_to_earth
-status: up
-code: 200
-responseTime: 1317
-lastUpdated: 2021-01-25T23:22:08.296Z
+status: down
+code: 429
+responseTime: 92
+lastUpdated: 2021-01-26T13:53:51.827Z
 startTime: Fri Jan 15 2021 16:39:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
