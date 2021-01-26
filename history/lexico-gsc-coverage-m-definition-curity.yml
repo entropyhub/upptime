@@ -1,7 +1,7 @@
 url: https://www.lexico.com/definition/curity
-status: up
-code: 200
-responseTime: 616
-lastUpdated: 2021-01-26T21:00:29.125Z
+status: down
+code: 429
+responseTime: 91
+lastUpdated: 2021-01-26T21:26:08.529Z
 startTime: Fri Jan 15 2021 16:40:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
