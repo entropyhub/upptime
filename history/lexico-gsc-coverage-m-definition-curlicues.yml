@@ -1,7 +1,7 @@
 url: https://www.lexico.com/definition/curlicues
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2021-02-01T11:55:45.766Z
+status: down
+code: 429
+responseTime: 369
+lastUpdated: 2021-02-01T12:28:59.872Z
 startTime: Fri Jan 15 2021 16:40:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
