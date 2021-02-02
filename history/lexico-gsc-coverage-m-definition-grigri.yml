@@ -1,7 +1,7 @@
 url: https://www.lexico.com/definition/grigri
-status: up
-code: 200
-responseTime: 3338
-lastUpdated: 2021-02-02T15:55:05.509Z
+status: down
+code: 429
+responseTime: 92
+lastUpdated: 2021-02-02T16:28:18.930Z
 startTime: Fri Jan 15 2021 16:40:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
