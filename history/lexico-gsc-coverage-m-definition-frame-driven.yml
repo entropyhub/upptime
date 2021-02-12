@@ -1,7 +1,7 @@
 url: https://www.lexico.com/definition/frame-driven
-status: up
-code: 200
-responseTime: 5584
-lastUpdated: 2021-02-12T00:25:31.397Z
+status: down
+code: 429
+responseTime: 98
+lastUpdated: 2021-02-12T01:18:41.423Z
 startTime: Fri Jan 15 2021 16:40:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
