@@ -1,7 +1,7 @@
 url: https://www.lexico.com/en/definition/subsidiarity]
-status: up
-code: 200
-responseTime: 851
-lastUpdated: 2021-02-19T19:50:41.764Z
+status: down
+code: 429
+responseTime: 174
+lastUpdated: 2021-02-19T19:59:44.603Z
 startTime: Fri Jan 15 2021 16:40:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
