@@ -1,7 +1,7 @@
 url: https://www.lexico.com/search?filter=en_dictionary&query=what_do_you_know_about_that
-status: up
-code: 200
-responseTime: 584
-lastUpdated: 2021-02-19T07:10:25.599Z
+status: down
+code: 429
+responseTime: 96
+lastUpdated: 2021-02-19T07:43:45.264Z
 startTime: Fri Jan 15 2021 16:40:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
