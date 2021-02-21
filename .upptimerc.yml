@@ -28,8 +28,6 @@ sites:
     url: https://staging.lexico.com/es/definicion
     headers:
       - "Authorization: Basic $STAGING_ACCESS"
-  - name: Lexico GSC Coverage m/en/definition/word%
-    url: https://www.lexico.com/en/definition/word%
 
 
 status-website:
