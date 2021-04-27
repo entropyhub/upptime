@@ -1,7 +1,7 @@
 url: https://staging.lexico.com/es/definicion
-status: down
-code: 503
-responseTime: 170
-lastUpdated: 2021-04-27T17:48:27.483Z
+status: up
+code: 200
+responseTime: 792
+lastUpdated: 2021-04-27T18:07:23.798Z
 startTime: Fri Jan 15 2021 11:00:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
