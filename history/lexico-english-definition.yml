@@ -1,7 +1,7 @@
 url: https://www.lexico.com/definition/bank
-status: up
-code: 200
-responseTime: 633
-lastUpdated: 2021-06-08T10:09:37.074Z
+status: down
+code: 502
+responseTime: 6
+lastUpdated: 2021-06-08T10:25:40.468Z
 startTime: Thu Jan 14 2021 22:41:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
